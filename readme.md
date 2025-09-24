@@ -1,4 +1,5 @@
 # Парсер статей с Habr.com
+(для solvit.space/projects/habr_parser)
 
 Python-скрипт для сбора данных о популярных статьях с сайта Habr.com из раздела "Бэкенд" (топ за день).
 
